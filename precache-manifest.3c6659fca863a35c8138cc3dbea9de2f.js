@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08a03d55ed1bd8ded772",
+    "revision": "02af82140f0d4d9f981a",
     "url": "/css/app.cbd0c9e4.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/firebase-messaging-sw.js"
   },
   {
-    "revision": "fd7270bd488346d6b0119f33a0100cc1",
+    "revision": "3a080a9a9f0b8798adc14404f2a5fa5a",
     "url": "/index.html"
   },
   {
-    "revision": "08a03d55ed1bd8ded772",
-    "url": "/js/app.8c8c2815.js"
+    "revision": "02af82140f0d4d9f981a",
+    "url": "/js/app.b4beef80.js"
   },
   {
     "revision": "9c48f2d0a2cb6f58ec45",
